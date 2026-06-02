@@ -1,0 +1,1 @@
+"use strict";exports.id=12998,exports.ids=[12998],exports.modules={12998:(s,e,r)=>{r.r(e),r.d(e,{default:()=>a});var d=r(20997);let a=({children:s,headerSlot:e,className:r})=>(0,d.jsxs)("div",{className:r,children:[d.jsx(d.Fragment,{children:e}),d.jsx("section",{className:"shadow px-2 py-4 bg-white dark:bg-gray-800 hover:shadow-xl duration-200",children:s})]})}};

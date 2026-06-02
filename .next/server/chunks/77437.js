@@ -1,0 +1,1 @@
+"use strict";exports.id=77437,exports.ids=[77437],exports.modules={77437:(e,s,t)=>{t.r(s),t.d(s,{default:()=>n});var r=t(20997),d=t(16689),o=t(78174);let n=()=>((0,d.useEffect)(()=>((0,o.loadExternalResource)("/js/nest.js","js").then(e=>{window.createNest&&window.createNest()}),()=>window.destroyNest&&window.destroyNest()),[]),r.jsx(r.Fragment,{}))}};

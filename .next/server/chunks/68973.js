@@ -1,0 +1,1 @@
+"use strict";exports.id=68973,exports.ids=[68973],exports.modules={68973:(t,e,s)=>{s.r(e),s.d(e,{default:()=>r});var o=s(20997),n=s(69325);function r(){return(0,n.JA)("COZE_SRC_URL","https://lf-cdn.coze.cn/obj/unpkg/flow-platform/chat-app-sdk/0.1.0-beta.6/libs/cn/index.js"),(0,n.JA)("COZE_TITLE","NotionNext助手"),(0,n.JA)("COZE_BOT_ID"),o.jsx(o.Fragment,{})}s(78174),s(16689)}};

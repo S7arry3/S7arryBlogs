@@ -1,0 +1,1 @@
+"use strict";exports.id=28868,exports.ids=[28868],exports.modules={28868:(e,t,s)=>{s.r(t),s.d(t,{ArticleHeader:()=>l});var r=s(20997);let l=e=>{let{post:t}=e;return r.jsx("section",{className:"w-full mx-auto mb-4",children:r.jsx("h2",{className:"py-10 dark:text-white text-center",style:{fontSize:"16px",fontWeight:"300"},children:t?.title})})}}};

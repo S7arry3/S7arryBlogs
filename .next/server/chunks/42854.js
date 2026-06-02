@@ -1,0 +1,1 @@
+"use strict";exports.id=42854,exports.ids=[42854],exports.modules={42854:(e,s,t)=>{t.r(s),t.d(s,{default:()=>a});var r=t(20997),d=t(16689);function a(){let[e,s]=(0,d.useState)(!1);return r.jsx("div",{id:"revolvermaps",className:"p-4"})}}};

@@ -1,0 +1,1 @@
+"use strict";exports.id=94280,exports.ids=[94280],exports.modules={94280:(e,o,s)=>{s.r(o),s.d(o,{default:()=>i});var t=s(20997),r=s(16689),d=s(78174);let i=()=>((0,r.useEffect)(()=>((0,d.loadExternalResource)("/js/ribbon.js","js").then(e=>{window.createRibbon&&window.createRibbon()}),()=>window.destroyRibbon&&window.destroyRibbon()),[]),t.jsx(t.Fragment,{}))}};

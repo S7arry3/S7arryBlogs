@@ -1,0 +1,1 @@
+"use strict";exports.id=32960,exports.ids=[32960],exports.modules={32960:(r,e,s)=>{s.r(e),s.d(e,{default:()=>o});var t=s(20997),d=s(16689),a=s(78174);let o=()=>((0,d.useEffect)(()=>{(0,a.loadExternalResource)("/js/starrySky.js","js").then(r=>{window.renderStarrySky&&window.renderStarrySky()})},[]),t.jsx(t.Fragment,{}))}};

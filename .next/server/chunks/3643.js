@@ -1,0 +1,3 @@
+"use strict";exports.id=3643,exports.ids=[3643],exports.modules={3643:(s,t,a)=>{a.r(t),a.d(t,{default:()=>r});var d=a(20997),e=a(69325);function r({orientation:s="vertical",sticky:t=!1,className:a}){let r=(0,e.JA)("AD_WWADS_ID");return r?d.jsx("div",{"data-id":r,className:`wwads-cn 
+            ${"vertical"===s?"wwads-vertical":"wwads-horizontal"}
+            ${t?"wwads-sticky":""} z-10 ${a||""}`}):null}}};

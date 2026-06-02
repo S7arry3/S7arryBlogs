@@ -1,0 +1,1 @@
+"use strict";exports.id=29468,exports.ids=[29468],exports.modules={29468:(r,e,d)=>{d.r(e),d.d(e,{default:()=>l});var s=d(20997);let l=({children:r,headerSlot:e,className:d})=>(0,s.jsxs)("div",{className:`${d||""} card border dark:border-gray-700 rounded-xl lg:p-6 p-4`,children:[s.jsx(s.Fragment,{children:e}),s.jsx("section",{children:r})]})}};

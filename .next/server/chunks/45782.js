@@ -1,0 +1,1 @@
+"use strict";exports.id=45782,exports.ids=[45782],exports.modules={45782:(e,t,s)=>{s.r(t),s.d(t,{default:()=>o}),s(78174);var u=s(11163),r=s(16689);function o(){(0,u.useRouter)();let[e,t]=(0,r.useState)(null)}}};

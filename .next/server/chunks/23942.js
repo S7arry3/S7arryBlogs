@@ -1,0 +1,1 @@
+"use strict";exports.id=23942,exports.ids=[23942],exports.modules={23942:(e,s,t)=>{t.r(s),t.d(s,{default:()=>i});var r=t(20997),n=t(40968),d=t.n(n);function i(){return r.jsx(r.Fragment,{children:r.jsx(d(),{children:r.jsx(SmartLink,{rel:"stylesheet",href:"https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css"})})})}t(16689),t(78174)}};

@@ -1,0 +1,1 @@
+"use strict";exports.id=83418,exports.ids=[83418],exports.modules={83418:(e,t,d)=>{d.r(t),d.d(t,{Pdf:()=>r});var o=d(20997);function r({file:e}){let t="https://docs.google.com/viewer?embedded=true&url="+encodeURIComponent(e);return o.jsx("embed",{src:t,type:"application/pdf",width:"100%",height:"100%"})}}};

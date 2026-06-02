@@ -1,0 +1,1 @@
+"use strict";exports.id=13224,exports.ids=[13224],exports.modules={13224:(N,E,_)=>{_.r(E),_.d(E,{default:()=>M});let M={NOBELIUM_MENU_CATEGORY:!1,NOBELIUM_MENU_TAG:!0,NOBELIUM_MENU_ARCHIVE:!1,NOBELIUM_MENU_SEARCH:!0,NOBELIUM_MENU_RSS:!1,NOBELIUM_NAV_NOTION_ICON:!0}}};

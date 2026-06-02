@@ -1,0 +1,1 @@
+"use strict";exports.id=33901,exports.ids=[33901],exports.modules={33901:(e,t,s)=>{s.r(t),s.d(t,{default:()=>l});var r=s(20997),o=s(26964);let l=()=>{let{locale:e}=(0,o.Og)();return r.jsx("div",{title:e.POST.TOP,className:"cursor-pointer p-2 text-center",onClick:()=>window.scrollTo({top:0,behavior:"smooth"}),children:r.jsx("i",{className:"fas fa-angle-up text-2xl"})})}}};

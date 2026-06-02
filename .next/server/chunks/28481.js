@@ -1,0 +1,1 @@
+"use strict";exports.id=28481,exports.ids=[28481],exports.modules={28481:(e,r,s)=>{s.r(r),s.d(r,{default:()=>t});var d=s(20997);function t({value:e}){return process.env.NEXT_PUBLIC_QR_CODE_CDN,d.jsx("div",{id:"qrcode"})}s(78174),s(16689)}};

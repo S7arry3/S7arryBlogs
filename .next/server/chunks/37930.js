@@ -1,0 +1,1 @@
+"use strict";exports.id=37930,exports.ids=[37930],exports.modules={37930:(t,e,s)=>{s.r(e),s.d(e,{default:()=>a});var r=s(20997);function a({post:t}){return t?(0,r.jsxs)("div",{className:"pt-10 pb-6 text-gray-400 text-sm border-b",children:[r.jsx("i",{className:"fa-regular fa-clock mr-1"}),"Last update:  ",t.date?.start_date]}):null}}};

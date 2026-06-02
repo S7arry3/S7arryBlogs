@@ -1,0 +1,1 @@
+"use strict";exports.id=82510,exports.ids=[82510],exports.modules={82510:(e,t,r)=>{r.r(t),r.d(t,{Style:()=>i});var s=r(20997),d=r(99816),o=r.n(d);let i=()=>s.jsx(o(),{id:"942193b691ada473",children:".test{text-color:red}"})}};
