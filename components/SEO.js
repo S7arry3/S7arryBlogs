@@ -56,7 +56,7 @@ const SEO = props => {
   const type = meta?.type || 'website'
   const lang = siteConfig('LANG').replace('-', '_') // Facebook OpenGraph 要 zh_CN 這樣的格式才抓得到語言
   const category = meta?.category || KEYWORDS // section 主要是像是 category 這樣的分類，Facebook 用這個來抓連結的分類
-  const favicon = siteConfig('BLOG_FAVICON')
+  const favicon = process.env.NEXT_PUBLIC_FAVICON || '/favicon.ico'
   const BACKGROUND_DARK = siteConfig('BACKGROUND_DARK', '', NOTION_CONFIG)
 
   const SEO_BAIDU_SITE_VERIFICATION = siteConfig(
@@ -71,7 +71,7 @@ const SEO = props => {
     NOTION_CONFIG
   )
 
-  const BLOG_FAVICON = siteConfig('BLOG_FAVICON', null, NOTION_CONFIG)
+  const BLOG_FAVICON = favicon
 
   const COMMENT_WEBMENTION_ENABLE = siteConfig(
     'COMMENT_WEBMENTION_ENABLE',
