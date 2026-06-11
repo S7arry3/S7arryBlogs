@@ -19,6 +19,7 @@ import {
   IconBrandYoutube,
   IconBrandLinkedin,
   IconBrandWechat,
+  IconBrandZhihu,
   IconPlanet
 } from '@tabler/icons-react'
 // Conceptual Navigation Icons (Solid, Angular)
@@ -64,6 +65,7 @@ const SocialIconComponents = {
   'CONTACT_YOUTUBE': YoutubeFillIcon,
   'CONTACT_LINKEDIN': LinkedinBoxFillIcon,
   'CONTACT_WEHCHAT_PUBLIC': WechatFillIcon,
+  'CONTACT_ZHIHU': IconBrandZhihu,
   'CONTACT_ZHISHIXINGQIU': GlobeFillIcon
 }
 
@@ -96,6 +98,7 @@ export const MobileNav = (props) => {
     { key: 'CONTACT_XIAOHONGSHU', svg: '/svg/xiaohongshu.svg', label: 'Xiaohongshu' },
     { key: 'CONTACT_LINKEDIN', label: 'LinkedIn' },
     { key: 'CONTACT_ZHISHIXINGQIU', label: 'Zhishixingqiu' },
+    { key: 'CONTACT_ZHIHU', label: 'Zhihu' },
     { key: 'CONTACT_WEHCHAT_PUBLIC', label: 'WeChat' },
   ]
 

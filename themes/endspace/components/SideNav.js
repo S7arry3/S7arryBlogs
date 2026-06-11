@@ -17,7 +17,8 @@ import {
   IconBrandLinkedin,
   IconBrandWechat,
   IconBrandX,
-  IconPlanet
+  IconPlanet,
+  IconBrandZhihu
 } from '@tabler/icons-react'
 import RadarFillIcon from 'remixicon-react/RadarFillIcon'
 import MailSendFillIcon from 'remixicon-react/MailSendFillIcon'
@@ -65,6 +66,7 @@ const SocialIconComponents = {
   'CONTACT_YOUTUBE': YoutubeFillIcon,
   'CONTACT_LINKEDIN': LinkedinBoxFillIcon,
   'CONTACT_WEHCHAT_PUBLIC': WechatFillIcon,
+  'CONTACT_ZHIHU': IconBrandZhihu,
   'CONTACT_ZHISHIXINGQIU': GlobeFillIcon
 }
 
@@ -100,6 +102,7 @@ export const SideNav = (props) => {
     { key: 'CONTACT_LINKEDIN', label: 'LinkedIn' },
     { key: 'CONTACT_ZHISHIXINGQIU', label: 'Zhishixingqiu' },
     { key: 'CONTACT_WEHCHAT_PUBLIC', label: 'WeChat' },
+    { key: 'CONTACT_ZHIHU', label: 'Zhihu' },
   ]
 
   const CONTACT_EMAIL = siteConfig('CONTACT_EMAIL')
