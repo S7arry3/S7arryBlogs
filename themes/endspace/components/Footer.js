@@ -1,4 +1,5 @@
 import { siteConfig } from '@/lib/config'
+import { BeiAnGongAn } from '@/components/BeiAnGongAn'
 
 /**
  * Footer Component - Dark Industrial / Endfield Style
@@ -57,7 +58,14 @@ export const Footer = ({ title }) => {
           </div>
         )}
 
-        {/* Row 3: Copyright */}
+        {/* Row 3: Public Security Registration */}
+        {siteConfig('BEI_AN_GONGAN') && (
+          <div className="flex justify-center items-center text-sm font-mono text-gray-500 md:-ml-10">
+            <BeiAnGongAn className="flex items-center justify-center hover:text-gray-300 transition-colors py-1" />
+          </div>
+        )}
+
+        {/* Row 4: Copyright */}
         <div className="flex justify-center items-center text-xs font-mono text-gray-500 md:-ml-10">
           <div className="text-center">
             © {siteConfig('SINCE') && siteConfig('SINCE') !== y ? `${siteConfig('SINCE')}-${y}` : y} {siteConfig('AUTHOR')}
